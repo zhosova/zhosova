@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Data Engineer<br>🤝 I’m looking for help with clean code<br>🌱 Learning Python, getting better! 
+⚡ Data Engineer<br>🤝 Learning Python, getting better! 
 
 
 # 💻 Tech Stack:
